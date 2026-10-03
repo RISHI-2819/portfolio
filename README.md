@@ -1,0 +1,88 @@
+# 🌐 Rishi - Professional Portfolio Website
+
+A modern, responsive and professional personal portfolio website built to showcase my skills, projects, education, certifications, internship experience and contact information.
+
+The portfolio is designed to provide recruiters and HR professionals with a clear overview of my technical skills, projects and career interests.
+
+---
+
+## 🚀 Live Website
+
+🔗 **Live Demo:**  
+Add your deployed website link here
+
+---
+
+## 👨‍💻 About Me
+
+Hi, I'm **Rishi**, a B.Tech student specializing in **Artificial Intelligence and Data Science**.
+
+I am interested in:
+
+- Artificial Intelligence
+- Data Analytics
+- Data Architecture
+- Full Stack Development
+- Machine Learning
+- Database Design
+
+My goal is to develop strong technical expertise and build scalable, data-driven and innovative software solutions.
+
+---
+
+## ✨ Features
+
+- 📱 Fully responsive design
+- 💻 Desktop, tablet and mobile support
+- 🏠 Professional home section
+- 👨‍💻 About Me section
+- 🛠️ Technical skills section
+- 🚀 Projects showcase
+- 🎓 Education timeline
+- 📜 Certifications section
+- 💼 Internship experience
+- 📩 Contact form
+- 🔗 GitHub and LinkedIn links
+- 📄 Downloadable resume
+- 📱 Responsive mobile navigation
+- ✨ Smooth scrolling
+- 🎨 Hover effects and animations
+- ⬆️ Back-to-top button
+
+---
+
+## 🛠️ Technologies Used
+
+### Frontend
+
+- HTML5
+- CSS3
+- JavaScript
+
+### Libraries & Tools
+
+- Font Awesome
+- Google Fonts
+- Git
+- GitHub
+- Visual Studio Code
+
+---
+
+## 📂 Project Structure
+
+```text
+PORTFOLIO RISHI/
+│
+├── index.html
+├── style.css
+├── script.js
+│
+├── assests/
+│   ├── profile.jpg
+│   ├── project1.jpg
+│   ├── project2.jpg
+│   ├── project3.jpg
+│   └── resume.pdf
+│
+└── README.md
